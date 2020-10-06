@@ -42,6 +42,10 @@ The ***AutoEncoderImageCompression.ipynb*** notebook is run as a Google Colab No
 
 # Results
 
+The 28x28 size input image is converted to a 7x7 vector which is then passed through a decoder to obtain the reconstructed images.
+
+The compression ratio is roughly about 2.0x 
+
 ![Results_image](./readme_blob/res.png)
 
 
