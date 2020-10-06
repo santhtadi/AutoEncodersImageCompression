@@ -34,7 +34,7 @@ The ***AutoEncoderImageCompression.ipynb*** notebook is run as a Google Colab No
 
 ## Steps to prepare the dataset
 
-1. To create the dataset use the github repo of Flickr-Faces-HQ Dataset (FFHQ) which provides a script to download all the images, I have used it to download only the thumbnail (128x128) images
+1. To create the dataset use the github [repository](https://github.com/NVlabs/ffhq-dataset) of Flickr-Faces-HQ Dataset (FFHQ) which provides a script to download all the images, I have used it to download only the thumbnail (128x128) images
 
 2. All the images files are then collected to a single folder using the ```collect_dataset_from_sub_dirs.py``` file
 
