@@ -42,7 +42,7 @@ The ***AutoEncoderImageCompression.ipynb*** notebook is run as a Google Colab No
 
 # Results
 
-![Results_image]()
+![Results_image](./readme_blob/res.png)
 
 
 
