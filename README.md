@@ -28,7 +28,7 @@ Flickr-Faces-HQ (FFHQ) is a high-quality image dataset of human faces, originall
 
 # Usage
 
-**To use pretrained autoencoder model, refer to "Load Pretrained Model and Run Inference" section in Notebook file"
+**To use pretrained autoencoder model, refer to "Load Pretrained Model and Run Inference" section in Notebook file"**
 
 The Notebook file ***AutoEncoderImageCompression.ipynb*** contains steps from loading dataset to training an auto encoder to reproduce the below results.
 
