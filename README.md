@@ -28,6 +28,8 @@ Flickr-Faces-HQ (FFHQ) is a high-quality image dataset of human faces, originall
 
 # Usage
 
+**To use pretrained autoencoder model, refer to "Load Pretrained Model and Run Inference" section in Notebook file"
+
 The Notebook file ***AutoEncoderImageCompression.ipynb*** contains steps from loading dataset to training an auto encoder to reproduce the below results.
 
 The ***AutoEncoderImageCompression.ipynb*** notebook is run as a Google Colab Notebook
@@ -47,6 +49,12 @@ The 28x28 size input image is converted to a 7x7 vector which is then passed thr
 The compression ratio is about 2.0x 
 
 ![Results_image](./readme_blob/res.png)
+
+The 128x128 size input image is converted to a 3x3 vector which is then passed through a decoder to obtain the reconstructed images.
+
+The compression ratio is about 4.0x 
+
+![Results_image](./readme_blob/res_128x128.png)
 
 
 
