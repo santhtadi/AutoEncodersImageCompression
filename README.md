@@ -9,7 +9,7 @@ The notebook contains the steps taken to compress an 28x28 size image to a 7x7 s
 
 ## Applications
 
-1. Datatransfer - Video calls or moving streaming in low bandwidth conditions
+1. Datatransfer - Video calls or movie streaming in low bandwidth conditions
 
 2. Datastorage - storing data, especially that which is not retrieved daily and where resolution isn't an issue
 
